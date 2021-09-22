@@ -37,7 +37,7 @@ lst, dic = getContext(  'dataauto.txt')   # lst для CSV, dic для JSON
 
 #print( lst )
 
-*********************************************************************** CSV
+#*********************************************************************** CSV
 namField = ['character', 'val']
 
 with open( 'auto.csv','w', newline='', encoding='utf8' ) as f:
